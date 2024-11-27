@@ -1,1 +1,1 @@
-# SpringBootKafkaBasicProjects
+# SpringBootKafkaBasicsProjects
